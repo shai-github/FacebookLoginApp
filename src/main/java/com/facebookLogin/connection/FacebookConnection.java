@@ -11,8 +11,8 @@ import java.net.URLEncoder;
 
 public class FacebookConnection {
 	
-	private static final String FACEBOOK_APP_ID="101168540412887";
-	private static final String FACEBOOK_APP_SECRET="1eb14f2380fc792125d56605f0b0c90f";
+	private static final String FACEBOOK_APP_ID="YOUR_APP_ID";
+	private static final String FACEBOOK_APP_SECRET="YOUR_APP_SECRET_CODE";
 	private static final String REDIRECT_URI="http://localhost:8080/FacebookLoginApp/oauth";
 	private static String accessToken="";
 	
